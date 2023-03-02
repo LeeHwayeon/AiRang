@@ -1,11 +1,12 @@
 # 아이랑(AiRang)
 <img src="https://user-images.githubusercontent.com/33210124/202468753-2d77b037-ba22-4aef-bf91-7a1c641beca1.png" width="100%"><br>
+#### 🏆 삼성 청년 SW 아카데미 2학기 공통 프로젝트 대전 3반 우수상
 
 ## ✨ [UCC](https://youtu.be/RatmUjSNe2Q) 
 
 
 ## ✨ Overview
-아이의 상상력을 최대로! 아이랑 함께하는 AR 동화책
+아이의 상상력을 최대로! 아이랑 함께하는 AR 동화책  
 
 ## 👀 [아이랑(AiRang) 서비스 화면](https://github.com/LeeHwayeon/AiRang/blob/develop/exec/airang_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
 
