@@ -1,6 +1,6 @@
 # 아이랑(AiRang)
 <img src="https://user-images.githubusercontent.com/33210124/202468753-2d77b037-ba22-4aef-bf91-7a1c641beca1.png" width="100%"><br>
-#### 🏆 삼성 청년 SW 아카데미 2학기 공통 프로젝트 대전 3반 우수상
+#### 🏆 삼성 청년 SW 아카데미 2학기 자율 프로젝트 대전 3반 우수상
 
 ## ✨ [UCC](https://youtu.be/RatmUjSNe2Q) 
 
